@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T10:55:23.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="AGB37p-kJ8Euhd6zLW7v" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T11:13:38.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mbgqT9bKn-IBUoSuK4cp" version="24.4.4" type="github">
   <diagram name="Страница — 1" id="0gjCVuvtDsMXWRGDhPsx">
-    <mxGraphModel dx="1434" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,6 +151,39 @@
         </mxCell>
         <mxCell id="_kbc-DSdjVsOpymA7g34-72" value="Прикрепление файла к комментарию&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-77" target="_kbc-DSdjVsOpymA7g34-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-77" target="_kbc-DSdjVsOpymA7g34-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-77" value="Читатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1201.25" y="295" width="44" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-78" target="_kbc-DSdjVsOpymA7g34-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-78" target="_kbc-DSdjVsOpymA7g34-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-78" value="Библиотекарь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="150" width="34.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-79" value="поиск книги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-80" value="возврат книги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-81" value="выдача книги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-90" value="купить книгу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="276" width="100" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-92" value="Адм. Библиотеки" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="150" width="39" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
