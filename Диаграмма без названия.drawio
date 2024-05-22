@@ -1,44 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T09:50:50.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3bgDZsrGAz5wR8WmJsMm" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T10:10:17.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ry4-f0kgjnNJ0ROHi9Ts" version="24.4.4" type="github">
   <diagram name="Страница — 1" id="0gjCVuvtDsMXWRGDhPsx">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_kbc-DSdjVsOpymA7g34-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-1" target="_kbc-DSdjVsOpymA7g34-2">
+        <mxCell id="_kbc-DSdjVsOpymA7g34-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-1" target="_kbc-DSdjVsOpymA7g34-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_kbc-DSdjVsOpymA7g34-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-1" target="_kbc-DSdjVsOpymA7g34-20">
+        <mxCell id="_kbc-DSdjVsOpymA7g34-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-1" target="_kbc-DSdjVsOpymA7g34-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_kbc-DSdjVsOpymA7g34-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Учитель&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="120" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_kbc-DSdjVsOpymA7g34-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ставить оценки&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="180" width="96" height="60" as="geometry" />
+          <mxGeometry x="257" y="200" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_kbc-DSdjVsOpymA7g34-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-6" target="_kbc-DSdjVsOpymA7g34-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="372" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_kbc-DSdjVsOpymA7g34-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-6" target="_kbc-DSdjVsOpymA7g34-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="330" />
-              <mxPoint x="140" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_kbc-DSdjVsOpymA7g34-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-6" target="_kbc-DSdjVsOpymA7g34-20">
+        <mxCell id="_kbc-DSdjVsOpymA7g34-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-6" target="_kbc-DSdjVsOpymA7g34-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_kbc-DSdjVsOpymA7g34-6" value="Кл. руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_kbc-DSdjVsOpymA7g34-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-11" target="_kbc-DSdjVsOpymA7g34-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="120" y="230" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_kbc-DSdjVsOpymA7g34-11" value="Ученик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="310" width="30" height="60" as="geometry" />
@@ -49,14 +31,44 @@
         <mxCell id="_kbc-DSdjVsOpymA7g34-13" value="узнать свои оценки" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_kbc-DSdjVsOpymA7g34-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-11" target="_kbc-DSdjVsOpymA7g34-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_kbc-DSdjVsOpymA7g34-18" value="Организовать родительское собрание" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_kbc-DSdjVsOpymA7g34-20" value="разместить учебные материалы&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="110" height="60" as="geometry" />
+          <mxGeometry x="250" y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-25" target="_kbc-DSdjVsOpymA7g34-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-25" value="Зам Директора" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-26" value="составить расписание&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.23;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-6" target="_kbc-DSdjVsOpymA7g34-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.031;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-6" target="_kbc-DSdjVsOpymA7g34-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-11" target="_kbc-DSdjVsOpymA7g34-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.927;entryY=0.268;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-11" target="_kbc-DSdjVsOpymA7g34-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-41" value="Узнать среднюю оценку за некоторый период времени" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-42" value="Узнать среднюю оценку по предмету" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.687;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-13" target="_kbc-DSdjVsOpymA7g34-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kbc-DSdjVsOpymA7g34-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.358;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kbc-DSdjVsOpymA7g34-13" target="_kbc-DSdjVsOpymA7g34-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
